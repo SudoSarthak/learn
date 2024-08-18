@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfccc137-060d-48c5-b9a1-789c72451466" name="Changes" comment="created abc class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfccc137-060d-48c5-b9a1-789c72451466" name="Changes" comment="change in feature" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,10 +24,20 @@
   }
 }]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="change in feature">
+      <option name="closed" value="true" />
+      <created>1723979245665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723979245665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created abc class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created abc class" />
+    <MESSAGE value="change in feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="change in feature" />
   </component>
 </project>
